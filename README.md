@@ -20,9 +20,10 @@ Setup instructions and project-specific documentation will be added as the proje
 
 Projects and experiments will be organized here as they are developed.
 
-## Hardware
+## Requirements
 
-* CoDrone Lite
+* CoDrone Lite (Hardware)
+* Python 3.7
 
 ## License
 
